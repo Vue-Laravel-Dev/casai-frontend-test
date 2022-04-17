@@ -1,0 +1,370 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Transfer-Encoding: compress
+
+{
+    "count": 72,
+    "data": [
+        {
+            "id": "354356c9-b7f3-4374-a7c5-84d30f879973",
+            "url": "http://localhost:3000/images/GettyImages-1302704644-e1614113964447.jpg",
+            "title": "Goldendoodle Bath Time"
+        },
+        {
+            "id": "a8f64552-ca72-4d3d-8f0c-b7c76644cc5e",
+            "url": "http://localhost:3000/images/3D4D57AA-5E09-474E-BC53-0E6D03A18F5C-scaled-e1606771409630.jpg",
+            "title": "White puppy resting on a slipper"
+        },
+        {
+            "id": "e8283faf-36cb-4125-9937-6b0258836548",
+            "url": "http://localhost:3000/images/265860744_1-Courtesy-Jennifer-Pustejovsky.jpg",
+            "title": "two dogs walk in the grass holding onto one stick"
+        },
+        {
+            "id": "10023b05-175a-4cc7-a148-b67d26d78a95",
+            "url": "http://localhost:3000/images/GettyImages-95481566.jpg",
+            "title": "Bulldog trying to get through a cat door"
+        },
+        {
+            "id": "3b68304b-238b-4725-8d2e-ae9ea470d719",
+            "url": "http://localhost:3000/images/GettyImages-94978775-e1606772997439.jpg",
+            "title": "Best Dog Ever"
+        },
+        {
+            "id": "bac43fd1-a5d3-4ad1-9605-a13521d06118",
+            "url": "http://localhost:3000/images/265819630_1-Coutesy-Gary-Flora-Sr..jpg",
+            "title": "two dogs sleeping on the couch; one dog's head is resting on the other dog's butt"
+        },
+        {
+            "id": "47107126-4208-4d0d-a7c9-6ee2d4318918",
+            "url": "http://localhost:3000/images/631D87C0-9987-41F3-AD30-DABB68407A4D.jpeg",
+            "title": "Little dog running through tulip field"
+        },
+        {
+            "id": "f7f50241-6dc0-42cf-b9cb-5971a054a62d",
+            "url": "http://localhost:3000/images/GettyImages-1197359168.jpg",
+            "title": "A tattooed woman hugging her cute puppy. Happy moment between pe"
+        },
+        {
+            "id": "9534f5e5-6191-4de5-a470-ef581eeec7f9",
+            "url": "http://localhost:3000/images/265816945_1-Courtesy-Alicia-Thornton.jpg",
+            "title": "two dogs cuddled together. one dog is yawning."
+        },
+        {
+            "id": "eb55ab83-2c50-416c-8865-b140438f6449",
+            "url": "http://localhost:3000/images/GettyImages-1158023825-1.jpg",
+            "title": "Dog running in a field"
+        },
+        {
+            "id": "875c4bf3-3cdb-4f01-b282-45bf95a53432",
+            "url": "http://localhost:3000/images/GettyImages-1098026264.jpg",
+            "title": "Dog looking guilty"
+        },
+        {
+            "id": "705b1cc7-fd62-43e2-ae9f-b7ff667607f2",
+            "url": "http://localhost:3000/images/265806558_1-Courtesy-Cheryl-Heinz.jpg",
+            "title": "two dogs looking directly at the camera"
+        },
+        {
+            "id": "59b0c64f-7f03-4684-88b2-369395ec68a9",
+            "url": "http://localhost:3000/images/A9E74F0C-C86F-443C-AD8F-43EE62451CEF-e1606771208368.jpeg",
+            "title": "Dog sitting in convertible with sunglasses"
+        },
+        {
+            "id": "cf28d89c-4b4e-48dd-9d0c-8a1ce301805d",
+            "url": "http://localhost:3000/images/GettyImages-758586901-scaled-e1606773458129.jpg",
+            "title": "Close-Up Of Funny Dog"
+        },
+        {
+            "id": "1230d18f-4a7e-4e6b-96da-0f68fd979b26",
+            "url": "http://localhost:3000/images/265642739_1-Courtesy-Sue-Augustus.jpg",
+            "title": "an older dog with a younger dog on his back; sitting in the grass"
+        },
+        {
+            "id": "2570b2f4-53f7-4f80-87eb-f281cd50a487",
+            "url": "http://localhost:3000/images/GettyImages-587493720.jpg",
+            "title": "Dog play"
+        },
+        {
+            "id": "579aef0a-0069-435e-8227-d3564b92a325",
+            "url": "http://localhost:3000/images/15042242_10210436935496168_5628084339358168554_o.jpg",
+            "title": "Little girl and her dog both stick their tongues out"
+        },
+        {
+            "id": "8d9f27aa-6cb6-4833-afb8-1b29ff48d8c6",
+            "url": "http://localhost:3000/images/265376026_1-Courtesy-Lisa-Perry.jpg",
+            "title": "a dog wearing a cone with two other dogs sticking their noses in his face"
+        },
+        {
+            "id": "135d2bd3-7c79-42f8-8019-cab23efb7073",
+            "url": "http://localhost:3000/images/GettyImages-908012290-e1606774700282.jpg",
+            "title": "A jumping Pug at the beach"
+        },
+        {
+            "id": "0fa92f3e-e153-4e73-9d68-bef340d68645",
+            "url": "http://localhost:3000/images/GettyImages-540904234.jpg",
+            "title": "A cocker spaniel dog shaking off water"
+        },
+        {
+            "id": "14da6906-84b3-482c-9732-b72924724aeb",
+            "url": "http://localhost:3000/images/265199384_1-Courtesy-Cindy-Johnson.jpg",
+            "title": "two small dogs sitting on the couch dressed to go out in cold weather with neck warmers and hats with pom poms on top"
+        },
+        {
+            "id": "c1500db9-e6ca-4f54-914b-e8b6414ef24f",
+            "url": "http://localhost:3000/images/DSCN0626-scaled.jpg",
+            "title": "Dog carrying bottle of alcohol"
+        },
+        {
+            "id": "2ac43da0-55d3-4e66-91d5-d53216ff2cbe",
+            "url": "http://localhost:3000/images/GettyImages-115443159-e1606773621452.jpg",
+            "title": "Pug lounging poolside with sunglasses"
+        },
+        {
+            "id": "04a0a1d2-eb56-44f9-be8e-b71885ae3529",
+            "url": "http://localhost:3000/images/265114431_1-Courtesy-Roseann-Schramm.jpg",
+            "title": "one dog looking at the camera while sitting on another dog"
+        },
+        {
+            "id": "9ee4253c-8a9e-4850-9d68-4b727137e2b4",
+            "url": "http://localhost:3000/images/GettyImages-978939420.jpg",
+            "title": "black and white dog running down a dirt road with a tennis ball in his mouth"
+        },
+        {
+            "id": "3aa0c266-0be9-492e-9bdc-22f9a4b4ec87",
+            "url": "http://localhost:3000/images/IMG_3692-scaled-e1606771489362.jpg",
+            "title": "Yellow lab with a cowboy hat"
+        },
+        {
+            "id": "71fcd3d2-916d-486a-b7d4-52663e263a5a",
+            "url": "http://localhost:3000/images/264768750_1-Courtesy-Lisa-Milligan.jpg",
+            "title": "two dogs trying to hold on to the same ball"
+        },
+        {
+            "id": "6e4f0b9d-7edc-43b4-a920-8a616cbf71aa",
+            "url": "http://localhost:3000/images/GettyImages-644070539.jpg",
+            "title": "Portrait Of Man And Woman With Dog In Car"
+        },
+        {
+            "id": "8cf2b0c4-4347-43aa-855f-54d0dabb0504",
+            "url": "http://localhost:3000/images/264727206_1-Courtesy-Jacqueline-Giacalone.jpg",
+            "title": "dog standing on two legs with his front paws up in the air "
+        },
+        {
+            "id": "0854596e-d944-4b7a-aa9a-1cea4acc3f5e",
+            "url": "http://localhost:3000/images/GettyImages-803241278.jpg",
+            "title": "Dog owner holds his dog tired by heat"
+        },
+        {
+            "id": "3a7fff9c-b60b-4b54-9c62-fc4a656c1f53",
+            "url": "http://localhost:3000/images/13FC8C33-851B-4719-A520-39B35308C4E7-e1606771532587.jpg",
+            "title": "Dog playing fetch in the snow"
+        },
+        {
+            "id": "88b807b2-0ea4-4397-a379-695575c7d5cc",
+            "url": "http://localhost:3000/images/GettyImages-1053489316.jpg",
+            "title": "Tween Girl Blowing Bubbles with Labradoodle Puppy in Backyard"
+        },
+        {
+            "id": "f527af40-20b1-46c9-9a71-3bba49c7feeb",
+            "url": "http://localhost:3000/images/264615508_1-Courtesy-Beverley-Byer.jpg",
+            "title": "back view of two dogs sitting on the couch and looking out the window intently"
+        },
+        {
+            "id": "28f4bb63-cd8c-4779-878d-5446b66fc370",
+            "url": "http://localhost:3000/images/GettyImages-114516871-scaled-e1606774227347.jpg",
+            "title": "Cocker spaniel puppy"
+        },
+        {
+            "id": "ba7d9c01-35d1-4e5a-880c-5de8e3fc2497",
+            "url": "http://localhost:3000/images/20170624_095537-e1528726413160-scaled-e1606771576237.jpg",
+            "title": "Mom and son in car with yawning puppy"
+        },
+        {
+            "id": "f30e8f6a-8b53-4469-b431-8ea541f1a652",
+            "url": "http://localhost:3000/images/GettyImages-864865462.jpg",
+            "title": "Close-Up Of english bulldog sleeping on sofa"
+        },
+        {
+            "id": "6f2b73b2-2644-4855-8a2e-7c58ebda33c0",
+            "url": "http://localhost:3000/images/264549042_1-Courtesy-Jenyfra-Nelson.jpg",
+            "title": "small dog sleeping on the couch among pillows in a seemingly-uncomfortable position"
+        },
+        {
+            "id": "c2d31861-a025-49ea-8a5a-d9ca7a0b5a8e",
+            "url": "http://localhost:3000/images/GettyImages-1213101182.jpg",
+            "title": "Dog with medical mask"
+        },
+        {
+            "id": "6a36b2c2-1d7f-4ac5-84d2-59dded082f7e",
+            "url": "http://localhost:3000/images/Gus-going-to-the-park-e1606771623854.jpg",
+            "title": "Dog looking out the window"
+        },
+        {
+            "id": "ecc698d8-90ea-445c-8abe-6112ed9ae124",
+            "url": "http://localhost:3000/images/264502677_1-Courtesy-Terrie-Humiston.jpg",
+            "title": "small dog peeking out from between the blankets"
+        },
+        {
+            "id": "54f8b89f-46be-40b4-9079-5d922655ee89",
+            "url": "http://localhost:3000/images/GettyImages-95489048-scaled.jpg",
+            "title": "Long haired dachshund with static electricity"
+        },
+        {
+            "id": "8b54f0e7-8222-44ac-8c39-1d7eeb45bab9",
+            "url": "http://localhost:3000/images/264438180_1-Courtesy-Judi-Cusumano.jpg",
+            "title": "small dog sitting in a suitcase"
+        },
+        {
+            "id": "ac561e0d-0e38-4e69-b659-fbb2bf0e28b7",
+            "url": "http://localhost:3000/images/GettyImages-889552354-e1606774439626.jpg",
+            "title": "Close-Up Of Dog With Bread On Porch"
+        },
+        {
+            "id": "c40ca2be-8082-451a-a248-e2bc83ae0e69",
+            "url": "http://localhost:3000/images/A921EFF9-3FC8-4366-B233-DBF88E1FDA48-scaled-e1606771650950.jpg",
+            "title": "Cocker Spaniel on a boat"
+        },
+        {
+            "id": "9040e317-e828-41b0-889d-5b3383a8ba48",
+            "url": "http://localhost:3000/images/GettyImages-1221625293.jpg",
+            "title": "Traveling Boy and his Dog"
+        },
+        {
+            "id": "f4762f9f-0356-4780-8161-06b5843ec393",
+            "url": "http://localhost:3000/images/264403923_1-Courtesy-Bruce-Danielson.jpg",
+            "title": "two dogs sleeping back to back on the rug"
+        },
+        {
+            "id": "4215e38c-aa16-4fd7-a630-d2bc4bc19d9b",
+            "url": "http://localhost:3000/images/056EF1B7-7ECF-40A9-831E-BADFB540916E-e1528726906439-scaled-e1606771681689.jpg",
+            "title": "Dog posing on bedspread"
+        },
+        {
+            "id": "ab8737ec-4fb7-4ef3-aa56-5df57c985839",
+            "url": "http://localhost:3000/images/92CDB55D-65D6-4FB3-BF6E-BB2B001FAFC0.jpeg",
+            "title": "Dog playing in the garden"
+        },
+        {
+            "id": "d8631860-cfbf-4c91-81e3-247c9faed891",
+            "url": "http://localhost:3000/images/57B4A13A-774F-452D-890E-211B594E830D.jpeg",
+            "title": "Dog napping on the couch"
+        },
+        {
+            "id": "51b440dd-e57a-4248-b9c8-a692e022143e",
+            "url": "http://localhost:3000/images/264381172_1-Courtesy-Emily-Pharez.jpg",
+            "title": "a dog sits in the driver's seat of a school bus"
+        },
+        {
+            "id": "16e13892-d827-45e4-a639-8bb824ea8b06",
+            "url": "http://localhost:3000/images/96C7BC94-34A0-49FD-8B1A-3F9AF7E2C9CF-e1528730124165-scaled-e1606771733827.jpeg",
+            "title": "Dog sitting in the grass outside"
+        },
+        {
+            "id": "969a9c78-ad17-4c4f-b794-d40014fa9369",
+            "url": "http://localhost:3000/images/475B2D62-6D7C-4E9A-9329-687147AF807C.jpg",
+            "title": "Four cute dogs standing on stones"
+        },
+        {
+            "id": "0d1c4863-cc62-43b2-b8e0-6a5f1bf0996d",
+            "url": "http://localhost:3000/images/200ED9D6-8B2B-4AB8-BCA6-4F1CE7F10D83-e1528732148677-scaled-e1606771777193.jpeg",
+            "title": "Pomeranian posing with orange ball"
+        },
+        {
+            "id": "2ebc450e-c682-4c46-8f73-a8f41fbbe705",
+            "url": "http://localhost:3000/images/264365995_1-Courtesy-Bill-Quesenberry.jpg",
+            "title": "a small dog sits on a small chair at a small table with a laptop and other school supplies for a day of remote learning"
+        },
+        {
+            "id": "5b47ff1e-9dad-4c2e-b9e7-f3bbde0cf033",
+            "url": "http://localhost:3000/images/950BB7BF-C742-471B-9EF7-C4683D0BDA11-e1528735197521-scaled.jpg",
+            "title": "Dog in red sweater"
+        },
+        {
+            "id": "27498024-9617-49f7-aa47-21eafc17f04d",
+            "url": "http://localhost:3000/images/2013-01-05_14-02-41_788-scaled-e1606771828676.jpg",
+            "title": "Dog cuddling stuffed rabbit"
+        },
+        {
+            "id": "081815a7-1a9c-4319-a211-8b75ecb65d7d",
+            "url": "http://localhost:3000/images/264158746_1_Courtesy-Nina-Clayton.jpg",
+            "title": "one large wet dog and two small wet dogs wrapped in towels in the bathroom"
+        },
+        {
+            "id": "4031eadd-3181-4ef1-bb99-0066a134191e",
+            "url": "http://localhost:3000/images/2016-12-28-07.08.24.jpg",
+            "title": "Dog dressed in hat"
+        },
+        {
+            "id": "777a0ec2-3f33-4e0c-8e13-0941cda2bb05",
+            "url": "http://localhost:3000/images/65453C62-89D9-437C-B879-EC01FC855C87-e1606771955410.jpg",
+            "title": "Dog resting head on little girl"
+        },
+        {
+            "id": "15f5ef0a-13fd-4ff9-9b60-24a0e23b38ac",
+            "url": "http://localhost:3000/images/56103FBC-90D3-46F8-89B9-98F41EE4A3C7-e1606771982599.jpg",
+            "title": "Selfie of woman with her dog on a boat"
+        },
+        {
+            "id": "ad487149-13e0-41a2-9d40-4f18a14b074c",
+            "url": "http://localhost:3000/images/264163487_1-Courtesy-Bambi-Sorg.jpg",
+            "title": "three dogs forming a pile on one dog bed"
+        },
+        {
+            "id": "13a3aae2-4ea4-46e7-998b-f9a6287bf139",
+            "url": "http://localhost:3000/images/20023969_10158826717310411_8424160290630003500_oa-e1606772014882.jpg",
+            "title": "Dog standing on hind legs looking at bubbles"
+        },
+        {
+            "id": "ebb4bfdd-5d27-4433-be0f-bcd5c2d98be9",
+            "url": "http://localhost:3000/images/16603126_1437218189635816_4960318888479830281_n-e1606772044504.jpg",
+            "title": "Two black and white dogs dressed in Mardi Gras attire"
+        },
+        {
+            "id": "ae0ead70-a6bb-4db7-b56b-3ab4dc2eb71a",
+            "url": "http://localhost:3000/images/20160101_115709-e1528738885831-scaled-e1606772073337.jpg",
+            "title": "Tiny dog sitting on a black chair"
+        },
+        {
+            "id": "b6bf3da5-d723-4f36-be85-aa7aa320959c",
+            "url": "http://localhost:3000/images/264214759_1-Courtesy-Suzan-Allen.jpg",
+            "title": "a medium sized dog sleeping in a large planter outside on a brick patio"
+        },
+        {
+            "id": "d049a4ca-4916-4e85-8983-124e1b300d3a",
+            "url": "http://localhost:3000/images/FBCF957C-09E9-41C1-9401-27093511CA0B-e1528739365964-scaled-e1606772124648.jpg",
+            "title": "Black and white dog smiling "
+        },
+        {
+            "id": "e08896ba-58ad-4ee1-aa43-2d64e3660a84",
+            "url": "http://localhost:3000/images/IMG_1450a-e1528739502268-Courtesy-Pat-Ingham.jpg",
+            "title": "dog sitting in the open refrigerator"
+        },
+        {
+            "id": "0fb7bb0c-173e-42ea-9424-11c11b41939c",
+            "url": "http://localhost:3000/images/266019778_1-Courtesy-Matt-Greene.jpg",
+            "title": "two puppies sitting together; one has the other's face in his mouth"
+        },
+        {
+            "id": "ae5bf6cc-e0cd-445b-a175-af4e0f97554a",
+            "url": "http://localhost:3000/images/BabooOnSwing-e1606772342588.jpg",
+            "title": "Dog in a blue swing"
+        },
+        {
+            "id": "0c46124a-73a0-4d6c-a9c7-d4af151ee89e",
+            "url": "http://localhost:3000/images/264480852_1-Courtesy-Deanna-Lashley.jpg",
+            "title": "close up on a small dog wrapped in a blanket with his face sticking out"
+        },
+        {
+            "id": "5b5fcdbf-bc0e-4adf-97d9-979fc5cb0913",
+            "url": "http://localhost:3000/images/DSC_0095-scaled-e1606772745450.jpg",
+            "title": "Two dogs stuck in a barrel"
+        },
+        {
+            "id": "36c7ab77-9046-4c89-86e5-49ccbf656282",
+            "url": "http://localhost:3000/images/20170826_205911-e1528741128949-scaled-e1606772779890.jpg",
+            "title": "Sleepy looing dog sitting in the living room"
+        }
+    ]
+}
